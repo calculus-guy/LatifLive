@@ -1,0 +1,5 @@
+{
+  "fullName" : "Abdul-Lateef",
+  "email" : "calculus768@gmail.com",
+  "password" : "vivoY12s"
+}
